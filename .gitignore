@@ -2,7 +2,7 @@ HELP.md
 /target/
 !.mvn/wrapper/maven-wrapper.jar
 .travis.yml
-.mvnw/wraper
+/.mvnw/wraper
 mvnw
 mvnw.cmd
 ### STS ###
